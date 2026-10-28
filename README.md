@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Collabora Online is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://collaboraonline.com/
+Collabora Online provides collaborative online office suite solutions, offering Collabora Online for web-based document editing and Collabora Office for desktop environments. Their products enable real-time co-authoring of text documents, spreadsheets, presentations, and graphics, targeting enterprises, service providers, and educational institutions. The platform supports integration with cloud services, offers on-premises deployment options, and includes a developer SDK for extending functionality.
+
+**Areas:** Company · Collaboration · Office Suite · Real-time Editing · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://collaboraonline.com/)
+- [Documentation](https://sdk.collaboraonline.com/)
+- [Pricing](https://www.collaboraonline.com/subscriptions/)
+- [Support](https://www.collaboraonline.com/partner-client-portal/)
+- [Changelog](https://www.collaboraonline.com/release-notes/)
+- [Blog](https://www.collaboraonline.com/blog/)
+- [Security](https://www.collaboraonline.com/security/)
+- [Terms of service](https://www.collaboraonline.com/terms/)
+- [Privacy policy](https://www.collaboraonline.com/privacy-notice/)
+- [GitHub](https://github.com/CollaboraOnline)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/collabora-online/](https://apis.io/providers/collabora-online/).
